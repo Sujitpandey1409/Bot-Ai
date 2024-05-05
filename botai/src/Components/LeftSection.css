@@ -1,0 +1,58 @@
+.leftSectionWrapper {
+    width: 208px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.leftSection {
+    gap: 10px;
+    width: 100%;
+    height: 97px;
+    display: flex;
+    flex-direction: column;
+}
+
+.newChat {
+    height: 47px;
+    background-color: #D7C7F4;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.iconContainer {
+    width: 33.58px;
+    height: 32px;
+    /* left: 16.42px; */
+    border-radius: 10px;
+    background-image: url('../Assets/botLogo.png');
+}
+
+.textHeader {
+    font-family: Ubuntu;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 22.98px;
+    text-align: left;
+}
+
+.editButtonNewChat {
+    width: 24px;
+    height: 24px;
+    background-image: url('../Assets/edit.png');
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.pastConvoBtn {
+    width: 175.16px;
+    height: 39px;
+    border: none;
+    border-radius: 10px;
+    opacity: 0px;
+    background: linear-gradient(0deg, #D7C7F4, #D7C7F4);
+    cursor: pointer;
+    align-self: center;
+}
