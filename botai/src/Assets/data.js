@@ -248,6 +248,231 @@ const data = [
       "id": 50,
       "question": "How do you stay updated with the latest technology trends?",
       "response": "Staying updated involves following industry news, participating in developer communities, attending conferences and workshops, taking online courses, reading technical blogs and publications, and experimenting with new technologies and tools."
+    },
+    {
+      "id": 51,
+      "question": "How do you stay updated with the latest technology trends?",
+      "response": "Staying updated involves following industry news, participating in developer communities, attending conferences and workshops, taking online courses, reading technical blogs and publications, and experimenting with new technologies and tools."
+    },
+    {
+      "id": 52,
+      "question": "What is your name?",
+      "response": "I'm ChatGPT, nice to meet you!"
+    },
+    {
+      "id": 53,
+      "question": "How are you?",
+      "response": "I'm just a computer program, so I don't have feelings, but I'm here to help you!"
+    },
+    {
+      "id": 54,
+      "question": "What is the weather like today?",
+      "response": "I'm sorry, I don't have real-time capabilities. You can check the weather using a weather website or app."
+    },
+    {
+      "id": 55,
+      "question": "Can you tell me a joke?",
+      "response": "Of course! Why don't skeletons fight each other? They don't have the guts!"
+    },
+    {
+      "id": 56,
+      "question": "Who is the president of the United States?",
+      "response": "As of my last update, the president of the United States is Joe Biden."
+    },
+    {
+      "id": 57,
+      "question": "What is the capital of Japan?",
+      "response": "The capital of Japan is Tokyo."
+    },
+    {
+      "id": 58,
+      "question": "How do you say 'hello' in Spanish?",
+      "response": "Hello in Spanish is 'Hola.'"
+    },
+    {
+      "id": 59,
+      "question": "What is the meaning of life?",
+      "response": "That's a deep question! The meaning of life can vary from person to person, but many people find purpose in relationships, personal growth, and contributing to society."
+    },
+    {
+      "id": 60,
+      "question": "Can you help me with my homework?",
+      "response": "I can certainly try! What do you need help with?"
+    },
+    {
+      "id": 61,
+      "question": "What is your favorite food?",
+      "response": "I don't have personal preferences, but I hear good things about pizza!"
+    },
+    {
+      "id": 62,
+      "question": "How do you solve a Rubik's Cube?",
+      "response": "Solving a Rubik's Cube involves following a series of algorithms to move the pieces into the correct positions. There are many tutorials and guides available online to help you learn."
+    },
+    {
+      "id": 63,
+      "question": "What is the speed of light?",
+      "response": "The speed of light in a vacuum is approximately 299,792 kilometers per second (about 186,282 miles per second)."
+    },
+    {
+      "id": 64,
+      "question": "Who wrote 'Hamlet'?",
+      "response": "The play 'Hamlet' was written by William Shakespeare."
+    },
+    {
+      "id": 65,
+      "question": "What is the chemical symbol for water?",
+      "response": "The chemical symbol for water is H2O."
+    },
+    {
+      "id": 66,
+      "question": "How do I change my password?",
+      "response": "To change your password, you'll need to go to your account settings on the website or application you're using and look for the option to change your password."
+    },
+    {
+      "id": 67,
+      "question": "What is the tallest mountain in the world?",
+      "response": "Mount Everest is the tallest mountain above sea level, standing at 8,848.86 meters (29,031.7 feet)."
+    },
+    {
+      "id": 68,
+      "question": "Who painted the Mona Lisa?",
+      "response": "The Mona Lisa was painted by Leonardo da Vinci."
+    },
+    {
+      "id": 69,
+      "question": "What is the capital of Australia?",
+      "response": "The capital of Australia is Canberra."
+    },
+    {
+      "id": 70,
+      "question": "What is the meaning of the word 'serendipity'?",
+      "response": "Serendipity refers to the occurrence of events by chance in a happy or beneficial way."
+    },
+    {
+      "id": 71,
+      "question": "How do I cook pasta?",
+      "response": "To cook pasta, bring a pot of salted water to a boil, add the pasta, and cook according to the package instructions until al dente. Then, drain the pasta and serve with your favorite sauce."
+    },
+    {
+      "id": 72,
+      "question": "What is the square root of 144?",
+      "response": "The square root of 144 is 12."
+    },
+    {
+      "id": 73,
+      "question": "What is the capital of Brazil?",
+      "response": "The capital of Brazil is Brasília."
+    },
+    {
+      "id": 74,
+      "question": "What is the largest planet in our solar system?",
+      "response": "Jupiter is the largest planet in our solar system."
+    },
+    {
+      "id": 75,
+      "question": "Who discovered gravity?",
+      "response": "Sir Isaac Newton is credited with discovering the concept of gravity."
+    },
+    {
+      "id": 76,
+      "question": "What is the formula for calculating the area of a circle?",
+      "response": "The formula for calculating the area of a circle is A = πr², where A is the area and r is the radius of the circle."
+    },
+    {
+      "id": 77,
+      "question": "How do I make pancakes?",
+      "response": "To make pancakes, you'll need flour, eggs, milk, baking powder, salt, and butter. Mix the ingredients together to form a batter, then pour the batter onto a hot, greased griddle or frying pan. Cook until bubbles form on the surface, then flip and cook until golden brown on both sides."
+    },
+    {
+      "id": 78,
+      "question": "What is the boiling point of water?",
+      "response": "The boiling point of water at sea level is 100 degrees Celsius or 212 degrees Fahrenheit."
+    },
+    {
+      "id": 79,
+      "question": "Who is the author of 'To Kill a Mockingbird'?",
+      "response": "Harper Lee is the author of 'To Kill a Mockingbird'."
+    },
+    {
+      "id": 80,
+      "question": "What is the chemical symbol for gold?",
+      "response": "The chemical symbol for gold is Au."
+    },
+    {
+      "id": 81,
+      "question": "What is the speed of sound?",
+      "response": "The speed of sound depends on the medium it travels through, but in dry air at sea level, it's approximately 343 meters per second or 1,125 feet per second."
+    },
+    {
+      "id": 82,
+      "question": "How do I tie a tie?",
+      "response": "There are various ways to tie a tie, but one common method is the Windsor knot. Start by crossing the wide end of the tie over the narrow end, then bring the wide end up through the loop between the collar and the tie. Wrap it around the narrow end, then bring it down through the loop again and tighten."
+    },
+    {
+      "id": 83,
+      "question": "What is the chemical formula for water?",
+      "response": "The chemical formula for water is H2O, indicating that each water molecule consists of two hydrogen atoms bonded to one oxygen atom."
+    },
+    {
+      "id": 84,
+      "question": "How do I start learning to code?",
+      "response": "To start learning to code, choose a programming language and find online tutorials, courses, or books to help you get started. Practice coding regularly and work on small projects to apply what you've learned."
+    },
+    {
+      "id": 85,
+      "question": "What is the largest ocean on Earth?",
+      "response": "The Pacific Ocean is the largest ocean on Earth."
+    },
+    {
+      "id": 86,
+      "question": "Who invented the telephone?",
+      "response": "The telephone was invented by Alexander Graham Bell."
+    },
+    {
+      "id": 87,
+      "question": "What is the chemical symbol for oxygen?",
+      "response": "The chemical symbol for oxygen is O."
+    },
+    {
+      "id": 88,
+      "question": "How do I say 'thank you' in French?",
+      "response": "Thank you in French is 'Merci'."
+    },
+    {
+      "id": 89,
+      "question": "What is the population of China?",
+      "response": "As of the latest data, the population of China is over 1.4 billion people."
+    },
+    {
+      "id": 90,
+      "question": "Who discovered penicillin?",
+      "response": "Penicillin was discovered by Sir Alexander Fleming."
+    },
+    {
+      "id": 91,
+      "question": "What is the square root of 100?",
+      "response": "The square root of 100 is 10."
+    },
+    {
+      "id": 92,
+      "question": "What is the capital of France?",
+      "response": "The capital of France is Paris."
+    },
+    {
+      "id": 93,
+      "question": "How do I create a budget?",
+      "response": "To create a budget, start by calculating your income and listing all your expenses. Allocate a portion of your income to each expense category, such as housing, transportation, groceries, and savings. Track your spending to ensure you stay within your budget."
+    },
+    {
+      "id": 94,
+      "question": "What is the largest mammal?",
+      "response": "The blue whale is the largest mammal on Earth."
+    },
+    {
+      "id": 95,
+      "question": "What is the capital of Russia?",
+      "response": "The capital of Russia is Moscow."
     }
   ]
 
